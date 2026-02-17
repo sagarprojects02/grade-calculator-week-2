@@ -1,0 +1,3 @@
+Sagar - Total: 255, Average: 85.0, Grade: A
+tharun - Total: 195, Average: 65.0, Grade: B
+prakash - Total: 273, Average: 91.0, Grade: A+
